@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 29b67d8f4b6f8a4408443b252ffca3dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6790003862758259264
+    second: graunds_0
+  - first:
+      213: 6712849198336102733
+    second: graunds_1
+  - first:
+      213: 7230832741714088074
+    second: graunds_2
+  - first:
+      213: -6884813415404367565
+    second: graunds_3
+  - first:
+      213: 5659580304735340081
+    second: graunds_4
+  - first:
+      213: -4632579923947975828
+    second: graunds_5
+  - first:
+      213: 144404786021976054
+    second: graunds_6
+  - first:
+      213: 7927637052557048767
+    second: graunds_7
+  - first:
+      213: -2391584859821776565
+    second: graunds_8
+  - first:
+      213: 4302312881197441802
+    second: graunds_9
+  - first:
+      213: 1303396763485097472
+    second: graunds_10
+  - first:
+      213: -3001757533356472618
+    second: graunds_11
+  - first:
+      213: 8131620948425579443
+    second: graunds_12
+  - first:
+      213: -1910858780352214551
+    second: graunds_13
+  - first:
+      213: -5586733574707918792
+    second: graunds_14
+  - first:
+      213: -2903684529818968626
+    second: graunds_15
+  - first:
+      213: 6906798229611279500
+    second: graunds_16
+  - first:
+      213: -4191759130246442164
+    second: graunds_17
+  - first:
+      213: -2708989655348450720
+    second: graunds_18
+  - first:
+      213: -8654382369682062028
+    second: graunds_19
+  - first:
+      213: 1338701800746719014
+    second: graunds_20
+  - first:
+      213: 7468090626265510558
+    second: graunds_21
+  - first:
+      213: 5063347502387117269
+    second: graunds_22
+  - first:
+      213: -7954636778945896730
+    second: graunds_23
+  - first:
+      213: -7496851287919464613
+    second: graunds_24
+  - first:
+      213: 5203766344379000556
+    second: graunds_25
+  - first:
+      213: -2123970142167143104
+    second: graunds_26
+  - first:
+      213: -6773472201963705622
+    second: graunds_27
+  - first:
+      213: -1695397604746396480
+    second: graunds_28
+  - first:
+      213: 2781122105901260965
+    second: graunds_29
+  - first:
+      213: 3022673273315747752
+    second: graunds_30
+  - first:
+      213: 3055722745840278026
+    second: graunds_31
+  - first:
+      213: -5639416239165839428
+    second: graunds_32
+  - first:
+      213: -7033821726950919267
+    second: graunds_33
+  - first:
+      213: 3598837271125741
+    second: graunds_34
+  - first:
+      213: -6444651708646002438
+    second: graunds_35
+  - first:
+      213: 7836348366098655409
+    second: graunds_36
+  - first:
+      213: -5057015056127977040
+    second: graunds_37
+  - first:
+      213: -8172946663903169564
+    second: graunds_38
+  - first:
+      213: 6754826540636431110
+    second: graunds_39
+  - first:
+      213: -3866245485212053990
+    second: graunds_40
+  - first:
+      213: -9064922310317512727
+    second: graunds_41
+  - first:
+      213: 2835752306620726109
+    second: graunds_42
+  - first:
+      213: -388523832261737623
+    second: graunds_43
+  - first:
+      213: -2622965591008131609
+    second: graunds_44
+  - first:
+      213: 1009631259171977530
+    second: graunds_45
+  - first:
+      213: 3842056986062052237
+    second: graunds_46
+  - first:
+      213: 5893618072390392290
+    second: graunds_47
+  - first:
+      213: -4728445536739476876
+    second: graunds_48
+  - first:
+      213: -4482165716268268482
+    second: graunds_49
+  - first:
+      213: 3737065092012711432
+    second: graunds_50
+  - first:
+      213: -5721633646914054668
+    second: graunds_51
+  - first:
+      213: -5489825771982674567
+    second: graunds_52
+  - first:
+      213: 3902854736808461382
+    second: graunds_53
+  - first:
+      213: -6561842941703077335
+    second: graunds_54
+  - first:
+      213: -5127109001732856009
+    second: graunds_55
+  - first:
+      213: -7266378657541611887
+    second: graunds_56
+  - first:
+      213: -627250522153679197
+    second: graunds_57
+  - first:
+      213: -6916540640529394518
+    second: graunds_58
+  - first:
+      213: 2380254899481654582
+    second: graunds_59
+  - first:
+      213: -3214774519249908237
+    second: graunds_60
+  - first:
+      213: 6063198347703438446
+    second: graunds_61
+  - first:
+      213: 6770655988008488360
+    second: graunds_62
+  - first:
+      213: -4860504863733495310
+    second: graunds_63
+  - first:
+      213: 6108167218794922130
+    second: graunds_64
+  - first:
+      213: 5450616082564777562
+    second: graunds_65
+  - first:
+      213: -1865613016396110261
+    second: graunds_66
+  - first:
+      213: -8667062939386788193
+    second: graunds_67
+  - first:
+      213: -3969718155808009605
+    second: graunds_68
+  - first:
+      213: -380847793020188912
+    second: graunds_69
+  - first:
+      213: -3376917274503896990
+    second: graunds_70
+  - first:
+      213: -7676677163370661735
+    second: graunds_71
+  - first:
+      213: 3192349943910637261
+    second: graunds_72
+  - first:
+      213: -8073121892552221988
+    second: graunds_73
+  - first:
+      213: -3794947352388501878
+    second: graunds_74
+  - first:
+      213: 3186246426055006162
+    second: graunds_75
+  - first:
+      213: 19083529920559604
+    second: graunds_76
+  - first:
+      213: -4175416224104716827
+    second: graunds_77
+  - first:
+      213: 2694878570880452019
+    second: graunds_78
+  - first:
+      213: -229177761234458116
+    second: graunds_79
+  - first:
+      213: 7966963311871265744
+    second: graunds_80
+  - first:
+      213: -1840484291579640291
+    second: graunds_81
+  - first:
+      213: -2115211671396993056
+    second: graunds_82
+  - first:
+      213: -6916399502162378253
+    second: graunds_83
+  - first:
+      213: 8263792438238238109
+    second: graunds_84
+  - first:
+      213: 9167683843134482030
+    second: graunds_85
+  - first:
+      213: -603352344219301489
+    second: graunds_86
+  - first:
+      213: -1667208243301314428
+    second: graunds_87
+  - first:
+      213: 4141375303194953865
+    second: graunds_88
+  - first:
+      213: 5142634656066111359
+    second: graunds_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: graunds_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 960
+        width: 786
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a7c37c980fa3e50800000000000000
+      internalID: 6790003862758259264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_1
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1678
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41d69997c4d82d50800000000000000
+      internalID: 6712849198336102733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_2
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1678
+        width: 146
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80d1286114195460800000000000000
+      internalID: 7230832741714088074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_3
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1642
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3319afd0daa3470a0800000000000000
+      internalID: -6884813415404367565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1360c892d4eda8e40800000000000000
+      internalID: 5659580304735340081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1630
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b89778a15c5bfb0800000000000000
+      internalID: -4632579923947975828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1630
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7c4b64367010200800000000000000
+      internalID: 144404786021976054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_7
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1630
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb33e995ef940e60800000000000000
+      internalID: 7927637052557048767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1630
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41ee1cbd326fced0800000000000000
+      internalID: -2391584859821776565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1630
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a036c5455c2e4bb30800000000000000
+      internalID: 4302312881197441802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_10
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1630
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e4ce06378961210800000000000000
+      internalID: 1303396763485097472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_11
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1630
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64f6a6d6d9756d0800000000000000
+      internalID: -3001757533356472618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_12
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1630
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb180f5b2259d070800000000000000
+      internalID: 8131620948425579443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_13
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1630
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98b2d30144b75e0800000000000000
+      internalID: -1910858780352214551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_14
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1626
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83849c0e96fe772b0800000000000000
+      internalID: -5586733574707918792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_15
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1630
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdd754fd4a04b7d0800000000000000
+      internalID: -2903684529818968626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_16
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1630
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84f6436560e9df50800000000000000
+      internalID: 6906798229611279500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_17
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1630
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4319a9a741e3d5c0800000000000000
+      internalID: -4191759130246442164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_18
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1630
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6fb4e24cb76ad0800000000000000
+      internalID: -2708989655348450720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_19
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1630
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43582b0761575e780800000000000000
+      internalID: -8654382369682062028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_20
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1630
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6271fade136049210800000000000000
+      internalID: 1338701800746719014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_21
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1608
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92faf06bdcf3a760800000000000000
+      internalID: 7468090626265510558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_22
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1608
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc35260abf944640800000000000000
+      internalID: 5063347502387117269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_23
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1608
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee1ca9bef37b9190800000000000000
+      internalID: -7954636778945896730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1608
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f61a14975d5f790800000000000000
+      internalID: -7496851287919464613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_25
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1604
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6e7d26bed773840800000000000000
+      internalID: 5203766344379000556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_26
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1608
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d6792b8642682e0800000000000000
+      internalID: -2123970142167143104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_27
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1608
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea68f17beacff1a0800000000000000
+      internalID: -6773472201963705622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_28
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1608
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccfa007cdcb878e0800000000000000
+      internalID: -1695397604746396480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_29
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1608
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a02b3ff1d7889620800000000000000
+      internalID: 2781122105901260965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_30
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1608
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a76d08c351b2f920800000000000000
+      internalID: 3022673273315747752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_31
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1322
+        width: 250
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a14edb5ab186a20800000000000000
+      internalID: 3055722745840278026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_32
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1472
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb763f33fc4ccb1b0800000000000000
+      internalID: -5639416239165839428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1450
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d937aa7f768d26e90800000000000000
+      internalID: -7033821726950919267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_34
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1216
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee56299f19cc0000800000000000000
+      internalID: 3598837271125741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_35
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1216
+        width: 384
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af07a0d8a6fff86a0800000000000000
+      internalID: -6444651708646002438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_36
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1088
+        width: 512
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8e589f15d40cc60800000000000000
+      internalID: 7836348366098655409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 576
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b990b3899fd1d9b0800000000000000
+      internalID: -5057015056127977040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e376d1bf4cd39e80800000000000000
+      internalID: -8172946663903169564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 782
+        width: 178
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e30a33f6fdbd50800000000000000
+      internalID: 6754826540636431110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 256
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4a772736585ac0800000000000000
+      internalID: -3866245485212053990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_41
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 742
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7e201df2de23280800000000000000
+      internalID: -9064922310317512727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_42
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 748
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b7f1bc2bd9a5720800000000000000
+      internalID: 2835752306620726109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_43
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 748
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963044f02afab9af0800000000000000
+      internalID: -388523832261737623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_44
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 748
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e543e921ba599bd0800000000000000
+      internalID: -2622965591008131609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_45
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 748
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39731de74ee20e00800000000000000
+      internalID: 1009631259171977530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_46
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 748
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b5905097ab15530800000000000000
+      internalID: 3842056986062052237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 748
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d6ae39665ac150800000000000000
+      internalID: 5893618072390392290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_48
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 748
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47abcd236df216eb0800000000000000
+      internalID: -4728445536739476876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_49
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 744
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34456157062cc1c0800000000000000
+      internalID: -4482165716268268482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 572
+        width: 256
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e1eefb6e8bcd330800000000000000
+      internalID: 3737065092012711432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_51
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 678
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d3cc338ca890b0800000000000000
+      internalID: -5721633646914054668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 670
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9752036fb8830d3b0800000000000000
+      internalID: -5489825771982674567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_53
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 674
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444b6574b9b92630800000000000000
+      internalID: 3902854736808461382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_54
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 674
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92242e35c96afe4a0800000000000000
+      internalID: -6561842941703077335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_55
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 670
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737610b0789d8d8b0800000000000000
+      internalID: -5127109001732856009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_56
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 674
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e90c12c13a82b90800000000000000
+      internalID: -7266378657541611887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_57
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 674
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a60ad139fe8b47f0800000000000000
+      internalID: -627250522153679197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_58
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 670
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa451becee28300a0800000000000000
+      internalID: -6916540640529394518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 256
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635bc7e483d580120800000000000000
+      internalID: 2380254899481654582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_60
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 552
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc12b7b93d263d0800000000000000
+      internalID: -3214774519249908237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_61
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 570
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c4995e5cec42450800000000000000
+      internalID: 6063198347703438446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_62
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 570
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad0e95afb336fd50800000000000000
+      internalID: 6770655988008488360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 570
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f94b1814940c8cb0800000000000000
+      internalID: -4860504863733495310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_64
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 570
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29005f819b194c450800000000000000
+      internalID: 6108167218794922130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_65
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 570
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a560e40d27a74ab40800000000000000
+      internalID: 5450616082564777562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_66
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 570
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b466d5598d20c16e0800000000000000
+      internalID: -1865613016396110261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_67
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 570
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c5eb3d2868b780800000000000000
+      internalID: -8667062939386788193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_68
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 570
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7215a8ae5ab8e8c0800000000000000
+      internalID: -3969718155808009605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_69
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 570
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0174a8733f4f6baf0800000000000000
+      internalID: -380847793020188912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_70
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 570
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260a05961a7c221d0800000000000000
+      internalID: -3376917274503896990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_71
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 570
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99830fdeac6f67590800000000000000
+      internalID: -7676677163370661735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_72
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 488
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce18853c518d4c20800000000000000
+      internalID: 3192349943910637261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_73
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 476
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdadef5796286ff80800000000000000
+      internalID: -8073121892552221988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_74
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 480
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ef29f4d73a55bc0800000000000000
+      internalID: -3794947352388501878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_75
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 480
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7ddd73e32d73c20800000000000000
+      internalID: 3186246426055006162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_76
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 476
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9b9fd8e5cc34000800000000000000
+      internalID: 19083529920559604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_77
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 480
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5e5d40111fd06c0800000000000000
+      internalID: -4175416224104716827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_78
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 480
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5442a38c1266520800000000000000
+      internalID: 2694878570880452019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_79
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 480
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf963375a0cc1dcf0800000000000000
+      internalID: -229177761234458116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_80
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 480
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db08aedbe6509e60800000000000000
+      internalID: 7966963311871265744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_81
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 480
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1685b1c9494576e0800000000000000
+      internalID: -1840484291579640291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_82
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 480
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e73f95113245a2e0800000000000000
+      internalID: -2115211671396993056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_83
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14ce42c430400a0800000000000000
+      internalID: -6916399502162378253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 396
+        width: 256
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95dfba6073eea270800000000000000
+      internalID: 8263792438238238109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_85
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 384
+        width: 320
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e666e1302e72a3f70800000000000000
+      internalID: 9167683843134482030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 238
+        width: 366
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c8685d3670a7f0800000000000000
+      internalID: -603352344219301489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_87
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 234
+        width: 312
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4801c6b9fe2ecd8e0800000000000000
+      internalID: -1667208243301314428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_88
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 128
+        width: 320
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988c28475ee197930800000000000000
+      internalID: 4141375303194953865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graunds_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f770f6c09fe4e5740800000000000000
+      internalID: 5142634656066111359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
